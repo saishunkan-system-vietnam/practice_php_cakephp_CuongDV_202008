@@ -17,7 +17,7 @@ Bài tập thực hành về CakePHP - Quản lý shop bán hàng - CuongDV - 20
 ### Thay đổi thông tin cá nhân
 	Chỉ được thay đổi thông tin của cá nhân
 ### Danh sách user
-	Chỉ có thủ thư và admin có chức năng này
+	Chỉ có admin có chức năng này
 ### Sửa thông tin cá nhân
 	Admin có quyền đóng user, thay đổi thông tin số điện thoại, mật khẩu, địa chỉ của user thông thường, không được quyền thay đổi role của user
 	Admin có thể thay đổi thông tin số điện thoại, mật khẩu, địa chỉ, role của tất cả các user, có quyền đóng user
