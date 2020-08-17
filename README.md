@@ -19,9 +19,7 @@ Bài tập thực hành về CakePHP - Quản lý shop bán hàng - CuongDV - 20
 ### Danh sách user
 	Chỉ có admin có chức năng này
 ### Sửa thông tin cá nhân
-	Admin có quyền đóng user, thay đổi thông tin số điện thoại, mật khẩu, địa chỉ của user thông thường, không được quyền thay đổi role của user
 	Admin có thể thay đổi thông tin số điện thoại, mật khẩu, địa chỉ, role của tất cả các user, có quyền đóng user
-
 
 ### Danh mục sản phẩm
 	Admin có quyền thực hiện
@@ -31,7 +29,7 @@ Bài tập thực hành về CakePHP - Quản lý shop bán hàng - CuongDV - 20
 	Admin có quyền thực hiện
 ### Xóa danh mục sản phẩm
 	Admin có quyền thực hiện
-	Trường hợp thể loại sách đang có sách thì không được xóa
+	Trường hợp danh mục đang có sản phẩm thì không được xóa
 
 ### Danh sách sản phẩm
 	Chỉ Admin và nhân viên báng hàng mới có quyền
