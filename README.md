@@ -9,7 +9,7 @@ Bài tập thực hành về CakePHP - Quản lý shop bán hàng - CuongDV - 20
 
 ### Login
 	Nhập thông tin user/password để thực hiện đăng nhập
-	Password mã hóa MD5
+	Password mã hóa theo framework
 ### Đăng ký user
 	Cần validate các trường user là duy nhất, địa chỉ email phải hợp lệ, số điện thoại chỉ được nhập số
 ### Lấy lại mật khẩu
